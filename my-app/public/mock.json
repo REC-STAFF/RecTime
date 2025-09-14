@@ -1,0 +1,28 @@
+{
+  "m_students": {
+    "f_student_id": "11",
+    "f_class": "PI11A203",
+    "f_number": "8",
+    "f_name": "金スミン"
+  },
+  "t_events": [
+    {
+      "f_event_id": "1",
+      "f_event_name": "開場",
+      "f_start_time": "0900",
+      "f_duration": "10",
+      "f_place": null,
+      "f_gather_time": null,
+      "f_summary": "入場可能時間"
+    },
+    {
+      "f_event_id": "2",
+      "f_event_name": "開会式",
+      "f_start_time": "0930",
+      "f_duration": "30",
+      "f_place": "2F各クラスの座席",
+      "f_gather_time": "0920",
+      "f_summary": "開会式"
+    }
+  ]
+}
